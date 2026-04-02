@@ -7,6 +7,7 @@ const App = () => {
       <h2>Welcome to Earth!</h2>
       <h3>Earth is amazing!!</h3>
       <h4>4:35 PM</h4>
+      <h5>Thu 2,Apr</h5>
     </div>
   )
 }
