@@ -6,7 +6,7 @@ const App = () => {
       <h1 className="text-3xl">Hello World</h1>
       <h2>Welcome to Earth!</h2>
       <h3>Github push working...</h3>
-      <h1>Hellooooooo!!!!!</h1>
+      <h4>Web 7:25PM</h4>
     </div>
   );
 };
